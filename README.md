@@ -14,5 +14,3 @@ Today I started my C Programming Journey.
 ## Program:
 
 Printed Hello World and basic messages.
-
-Excited to continue this 30-Day Challenge 🚀
