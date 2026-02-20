@@ -26,3 +26,15 @@ Today I learned:
 * Format specifiers (%d, %f, %c)
 
 Created a program to take student details from user and display them.
+
+
+## Day 3 - Operators in C
+
+Today I learned:
+
+* Arithmetic Operators (+, -, *, /, %)
+* Performing calculations using variables
+* Built a simple calculator program
+
+Now able to write logic-based programs.
+
