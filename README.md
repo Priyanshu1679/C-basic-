@@ -38,3 +38,19 @@ Today I learned:
 
 Now able to write logic-based programs.
 
+
+## Day 4 - If Else (Decision Making)
+
+Today I learned:
+
+* if-else statements
+* Relational operators
+* Decision making in programs
+
+Programs created:
+
+1. Even or Odd checker
+2. Greatest of two numbers
+3. Voting eligibility checker
+
+
