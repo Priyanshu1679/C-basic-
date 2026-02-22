@@ -54,3 +54,13 @@ Programs created:
 3. Voting eligibility checker
 
 
+## Day 5 - Switch Case
+
+Today I learned:
+
+* switch-case statement
+* Menu driven programming
+* Handling multiple operations using user choice
+
+Built a simple menu-driven calculator using switch-case.
+
