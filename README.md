@@ -64,3 +64,16 @@ Today I learned:
 
 Built a simple menu-driven calculator using switch-case.
 
+## Day 6 - For Loop
+
+Today I learned:
+
+* for loop syntax
+* Repeating tasks using loops
+* Printed numbers from 1 to N
+* Calculated sum of N numbers
+* Generated multiplication table
+
+Now understanding how automation works in programming.
+
+
