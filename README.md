@@ -77,3 +77,15 @@ Today I learned:
 Now understanding how automation works in programming.
 
 
+## Day 7 - Nested Loops & Patterns
+
+Today I learned:
+
+* Nested for loops
+* How rows and columns work in programming
+* Printed square, triangle and number patterns
+
+This improved my logical thinking.
+
+
+
