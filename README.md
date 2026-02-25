@@ -88,4 +88,16 @@ Today I learned:
 This improved my logical thinking.
 
 
+## Day 8 - While & Do-While Loop
+
+Today I learned:
+
+* while loop (condition first)
+* do-while loop (runs at least once)
+* Difference between while and do-while
+* Calculated sum using loop
+
+Now I understand when to use each loop.
+
+
 
