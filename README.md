@@ -99,5 +99,16 @@ Today I learned:
 
 Now I understand when to use each loop.
 
+## Day 9 - Break, Continue & Prime Number
+
+Today I learned:
+
+* break statement to exit loop early
+* continue to skip iteration
+* Logic to check Prime Number
+
+Built a Prime Number checker using loops.
+
+
 
 
