@@ -109,6 +109,17 @@ Today I learned:
 
 Built a Prime Number checker using loops.
 
+## Day 10 - Functions in C
+
+Today I learned:
+
+* What are functions
+* Function definition and calling
+* Passing parameters
+* Returning values
+
+Created reusable functions for addition and even/odd check.
+
 
 
 
