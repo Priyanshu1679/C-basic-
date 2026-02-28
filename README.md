@@ -120,6 +120,16 @@ Today I learned:
 
 Created reusable functions for addition and even/odd check.
 
+## Day 11 - Functions with Arrays
+
+Today I learned:
+
+* Passing arrays to functions
+* Calculating sum using function
+* Concept of pass by value
+* How functions work with collections of data
+
+Now able to modularize array operations.
 
 
 
