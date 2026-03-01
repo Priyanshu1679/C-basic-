@@ -132,4 +132,17 @@ Today I learned:
 Now able to modularize array operations.
 
 
+## Day 12 - Recursion
+
+Today I learned:
+
+* What is recursion
+* Base condition importance
+* Function calling itself
+* Solved factorial using recursion
+
+Started understanding problem breakdown technique.
+
+
+
 
