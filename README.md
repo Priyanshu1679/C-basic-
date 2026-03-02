@@ -144,5 +144,17 @@ Today I learned:
 Started understanding problem breakdown technique.
 
 
+## Day 13 - strings in c 
+
+Learned:
+- String Basics
+- Input/Output of String
+- String Length (without strlen)
+- String Reverse
+- String Compare (without strcmp)
+
+This improved my logic building.
+
+
 
 
