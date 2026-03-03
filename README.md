@@ -155,6 +155,16 @@ Learned:
 
 This improved my logic building.
 
+Day 14 - Arrays in C
+
+Learned:
+- Array basics
+- Taking array input
+- Calculating sum
+- Finding maximum & minimum
+- Linear Search algorithm
+
+Now ready to move towards sorting algorithms.
 
 
 
