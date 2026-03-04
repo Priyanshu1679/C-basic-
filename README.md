@@ -166,5 +166,12 @@ Learned:
 
 Now ready to move towards sorting algorithms.
 
+Day 15 - 2D Arrays
+
+Learned:
+- Matrix input/output
+- Nested loops
+- Matrix addition
+- Basic 2D traversal logic
 
 
