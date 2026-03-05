@@ -174,4 +174,10 @@ Learned:
 - Matrix addition
 - Basic 2D traversal logic
 
+Day 16 - Matrix Operations
 
+Learned:
+- Matrix multiplication
+- Transpose of matrix
+- Nested loops logic
+- 2D array operations
