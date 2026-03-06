@@ -155,7 +155,7 @@ Learned:
 
 This improved my logic building.
 
-Day 14 - Arrays in C
+## Day 14 - Arrays in C
 
 Learned:
 - Array basics
@@ -166,7 +166,7 @@ Learned:
 
 Now ready to move towards sorting algorithms.
 
-Day 15 - 2D Arrays
+## Day 15 - 2D Arrays
 
 Learned:
 - Matrix input/output
@@ -174,10 +174,18 @@ Learned:
 - Matrix addition
 - Basic 2D traversal logic
 
-Day 16 - Matrix Operations
+## Day 16 - Matrix Operations
 
 Learned:
 - Matrix multiplication
 - Transpose of matrix
 - Nested loops logic
 - 2D array operations
+
+## Day 17 - Pointers in C**
+
+Learned:
+- Pointer basics
+- Address operator (&)
+- Dereference operator (*)
+- Accessing value using pointer
