@@ -189,3 +189,11 @@ Learned:
 - Address operator (&)
 - Dereference operator (*)
 - Accessing value using pointer
+
+
+## Day 18 - Pointers with Functions
+
+Learned:
+- Call by value
+- Call by reference
+- Swap program using pointers
