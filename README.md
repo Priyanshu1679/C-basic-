@@ -197,3 +197,10 @@ Learned:
 - Call by value
 - Call by reference
 - Swap program using pointers
+
+##  Day 19 - Pointer with Arrays
+
+Learned:
+- Array base address
+- Pointer arithmetic
+- Accessing array using pointer
