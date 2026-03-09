@@ -204,3 +204,12 @@ Learned:
 - Array base address
 - Pointer arithmetic
 - Accessing array using pointer
+
+
+ ## Day 20 - Strings in C
+ 
+Learned:
+- String declaration
+- String input/output
+- strlen() function
+- Basic string handling
