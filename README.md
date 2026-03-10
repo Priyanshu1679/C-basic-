@@ -213,3 +213,10 @@ Learned:
 - String input/output
 - strlen() function
 - Basic string handling
+
+## Day 21 - String Practice
+
+Learned:
+- Reverse string
+- Count vowels
+- String traversal using loops
