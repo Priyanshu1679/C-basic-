@@ -220,3 +220,11 @@ Learned:
 - Reverse string
 - Count vowels
 - String traversal using loops
+
+## Day 22 - Structures in C
+
+Learned:
+- Structure declaration
+- Structure variables
+- Accessing structure members
+- Student record example
