@@ -228,3 +228,10 @@ Learned:
 - Structure variables
 - Accessing structure members
 - Student record example
+
+## Day 23 - Array of Structures
+
+Learned:
+- Storing multiple structure variables
+- Looping for input/output
+- Mini student database
