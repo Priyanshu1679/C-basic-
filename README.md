@@ -235,3 +235,10 @@ Learned:
 - Storing multiple structure variables
 - Looping for input/output
 - Mini student database
+
+## Day 24 - Pointers with Structures
+
+Learned:
+- Pointer to structure
+- Access structure members using 
+- Input/Output using pointer
