@@ -242,3 +242,11 @@ Learned:
 - Pointer to structure
 - Access structure members using 
 - Input/Output using pointer
+
+## Day 25 - Dynamic Memory Allocation
+
+Learned:
+- malloc()
+- calloc()
+- free()
+- Runtime memory allocation
