@@ -250,3 +250,14 @@ Learned:
 - calloc()
 - free()
 - Runtime memory allocation
+
+## Day 26 - File Handling
+
+Learned:
+- fopen()
+- fprintf()
+- fgets()
+- fclose()
+- Reading and writing files
+
+
