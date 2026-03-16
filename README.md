@@ -261,3 +261,10 @@ Learned:
 - Reading and writing files
 
 
+## Day 27 - Command Line Arguments
+
+Learned:
+- argc
+- argv
+- Passing arguments from terminal
+
