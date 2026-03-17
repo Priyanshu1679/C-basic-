@@ -268,3 +268,9 @@ Learned:
 - argv
 - Passing arguments from terminal
 
+## Day 28 - Preprocessor Directives
+
+Learned:
+- #include
+- #define
+- Macros
