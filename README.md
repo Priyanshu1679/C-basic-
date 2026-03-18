@@ -274,3 +274,10 @@ Learned:
 - #include
 - #define
 - Macros
+
+## Day 29 - typedef in C
+
+Learned:
+- typedef keyword
+- Creating custom data types
+- Using typedef with structures
