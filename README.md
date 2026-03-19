@@ -281,3 +281,22 @@ Learned:
 - typedef keyword
 - Creating custom data types
 - Using typedef with structures
+
+##  Day 30 - Mini Project (Student Management System)
+
+In this project, I built a simple Student Management System using C.
+
+Features:
+
+* Add student records
+* Store multiple students
+* Display student details
+
+Concepts Used:
+
+* Structures
+* Arrays
+* Loops
+* Input/Output
+
+This marks the completion of my 30 Days C Programming Journey 🚀
